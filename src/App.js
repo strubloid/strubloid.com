@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-         new website, testing of cache clean 3
+         new website, testing of cache clean 4
         </p>
         <a
           className="App-link"
@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Test update on server 3
+          Test update on server 4
         </a>
       </header>
     </div>
