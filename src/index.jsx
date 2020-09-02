@@ -61,7 +61,7 @@ ReactDOM.render(
         render={(props) => <NucleoIcons {...props} />}
       />
       <Route
-        path="/presentation"
+        path="/"
         render={(props) => <Presentation {...props} />}
       />
       <Route path="/pricing" render={(props) => <Pricing {...props} />} />
