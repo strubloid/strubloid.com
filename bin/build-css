@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # This is the main function that will build the css
 # in the same folder, example
 #
@@ -20,5 +22,6 @@ function buildCssInTheSameFolder()
   fi
 }
 
-buildCssInTheSameFolder "src"
-buildCssInTheSameFolder "src/components"
+# buildCssInTheSameFolder "src"
+# buildCssInTheSameFolder "src/components"
+buildCssInTheSameFolder "src/components/Strubloid/Headers"
