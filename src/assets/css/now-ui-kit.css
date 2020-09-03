@@ -2370,7 +2370,7 @@ p {
 .card-description,
 .footer-big p {
   color: #9A9A9A;
-  font-weight: 300; }
+  font-weight: 400; }
 
 .category {
   text-transform: capitalize;
@@ -5643,21 +5643,21 @@ img {
 .landing-page .section-team .team-player {
   margin-bottom: 15px; }
 
-.landing-page .section-contact-us .title {
+.landing-page .section-contact-me .title {
   margin-bottom: 15px; }
 
-.landing-page .section-contact-us .description {
+.landing-page .section-contact-me .description {
   margin-bottom: 30px; }
 
-.landing-page .section-contact-us .input-group,
-.landing-page .section-contact-us .send-button,
-.landing-page .section-contact-us .textarea-container {
+.landing-page .section-contact-me .input-group,
+.landing-page .section-contact-me .send-button,
+.landing-page .section-contact-me .textarea-container {
   padding: 0 40px; }
 
-.landing-page .section-contact-us .textarea-container {
+.landing-page .section-contact-me .textarea-container {
   margin: 40px 0; }
 
-.landing-page .section-contact-us a.btn {
+.landing-page .section-contact-me a.btn {
   margin-top: 35px; }
 
 .profile-page .button-container,
@@ -5935,30 +5935,30 @@ img {
 .blog-post .media p {
   color: #888888; }
 
-.about-us .page-header .container {
+.about-me .page-header .container {
   color: #FFFFFF;
   text-align: center; }
 
-.about-us .page-header .title {
+.about-me .page-header .title {
   color: #FFFFFF; }
 
-.about-us .about-description {
+.about-me .about-description {
   padding: 70px 0px 0px 0px; }
 
-.about-us .about-services {
+.about-me .about-services {
   padding-top: 10px; }
 
-.about-us .about-office .description {
+.about-me .about-office .description {
   margin-bottom: 70px; }
 
-.about-us .about-office img {
+.about-me .about-office img {
   margin: 20px 0px; }
 
-.about-us .about-contact,
-.about-us .about-office {
+.about-me .about-contact,
+.about-me .about-office {
   padding: 80px 0px; }
-  .about-us .about-contact .description,
-  .about-us .about-office .description {
+  .about-me .about-contact .description,
+  .about-me .about-office .description {
     margin-bottom: 70px; }
 
 .sections-page .page-header {
